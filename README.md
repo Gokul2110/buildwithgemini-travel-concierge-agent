@@ -2,13 +2,11 @@
 
 An intelligent, multimodal AI Travel Concierge built with the **Google Agent Development Kit (ADK)** and **Gemini 2.5 Flash**. The agent helps users discover destinations, plan personalized itineraries, check live weather, convert currencies, look up nearby attractions, generate scenic AI preview images and videos, and remember user preferences across sessions.
 
-https://github.com/user-attachments/assets/demo.mp4
+## 🎥 Demo
 
-<video src="demo.mp4" controls width="100%" poster="demo.gif">
-  <p>Your browser does not support HTML5 video. Watch <a href="demo.mp4">demo.mp4 with audio</a>.</p>
-</video>
+![Travel Concierge Demo](demo.gif)
 
-*🎧 Note: For video with Lyria-generated upbeat lo-fi background music, play **[demo.mp4](demo.mp4)** directly above!*
+📹 Full Demo Video: demo.mp4
 
 ---
 
